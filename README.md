@@ -1,6 +1,8 @@
 # Women Safety - ASTRA Platform
 
 A comprehensive women's safety application featuring real-time SOS alerts, emergency contact management, device pairing, and AI-powered crowd analysis.
+<img width="1890" height="919" alt="image" src="https://github.com/user-attachments/assets/376a5e6b-9314-4e76-8908-1f80ab1b878a" />
+
 
 ## 🏗️ Architecture
 
@@ -27,6 +29,8 @@ A comprehensive women's safety application featuring real-time SOS alerts, emerg
 - **Gemini API Key** (for AI safety insights)
 
 ## 🚀 Quick Start
+<img width="1896" height="927" alt="image" src="https://github.com/user-attachments/assets/f11ce5e5-7b71-49f9-83e4-14d468664d74" />
+
 
 ### Option 1: Automated Startup (Windows)
 ```bash
@@ -80,6 +84,8 @@ Women Safety/
 │
 ├── INTEGRATION_GUIDE.md       # Detailed integration docs
 └── START_SERVERS.bat          # Windows startup script
+<img width="1902" height="920" alt="image" src="https://github.com/user-attachments/assets/d1c3b364-deb6-4660-8114-d55be88e1d19" />
+
 ```
 
 ## 🔐 Security
@@ -290,3 +296,4 @@ For issues or questions:
 **Last Updated**: January 9, 2026  
 **Integration Status**: ✅ Complete  
 **Ready for**: Development & Testing
+
